@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f22253b72a84e0096d6393c419f2334, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier: 
+  fallSpeed: 1
+  groups:
+  - {fileID: 3364383877312586774, guid: b84133f9794219745b06dcaef28cb7c0, type: 3}
+  - {fileID: 2181768563336136630, guid: ac283830b19c778479c8603f80942c29, type: 3}
+  - {fileID: 5904207489903556017, guid: 6be1bce13f829214f841c5009727b5f8, type: 3}
+  - {fileID: 6707421884883681809, guid: affb25a2ee8908043952db9b1eb7c34f, type: 3}
+  - {fileID: 4318207194901926548, guid: 5aac2b2124f29be4c896046751d74d60, type: 3}
+  - {fileID: 1828385778088364067, guid: dc0814ecf5557b745af2122414b96149, type: 3}
+  - {fileID: 2693302422096743588, guid: f2c3b5c587aedf842895e22f86c8241a, type: 3}
+  scoreOneLine: 40
+  scoreTwoLine: 75
+  scoreThreeLine: 115
+  scoreFourLine: 225
